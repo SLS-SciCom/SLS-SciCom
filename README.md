@@ -2,7 +2,7 @@
 - 👀 I’m interested in the sciences, science education, science communication, digital design and programming.  
 - 🌱 I’m currently studying front-end web development and digital design to communicate science in more visual ways.  
 - 💞️ I’m looking to collaborate with researchers in the sciences to help them present their methods and findings clearly, concisely and creatively to their many important audiences. We can collaborate to develop accessible explanations of your work, visual metaphors and compelling research stories.  These can be used in a variety of face-to-face settings, research proposals, websites and other media platforms to reach potential students, funders, the media, and collaborators in and outside your field.
-- 📫 I helped found and I teach in a [Research Communications Program](https://researchcommunications.ucsd.edu)
+- 📫 I helped found and I teach in a [Research Communications Program](https://researchcommunications.ucsd.edu). In addition to my skills in research communication, I have experience developing visuals and multimedia, including storyboarding and working with designers to create visual assets for science communication projects.  I am currently working to deepen my own skills in digital design and programming.
 - 😄 Check out a [blog](https://utorontopress.com/blog/2024/03/20/s-l-seethaler-beyond-the-sage-on-the-stage/) I wrote about communication and communication anxiety.  
 - ⚡ I also recently published an [article in The Conversation](https://theconversation.com/messages-can-trigger-the-opposite-of-their-desired-effect-but-you-can-avoid-communication-that-backfires-230844) about communication backfires based on my book _**Beyond the Sage on the Stage**_.
 
